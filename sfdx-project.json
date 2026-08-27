@@ -3,6 +3,10 @@
     {
       "path": "force-app",
       "default": true
+    },
+    {
+      "path": "utils-app",
+      "default": false
     }
   ],
   "name": "sfdx-project",
